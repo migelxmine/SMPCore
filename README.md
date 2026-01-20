@@ -6,4 +6,4 @@ Official issue tracker for the SMPCore Minecraft plugin.
 💬 Please be clear and respectful  
 
 Modrinth page:
-https://modrinth.com/plugin/smpcore
+[https://modrinth.com/plugin/smpcore](https://modrinth.com/plugin/smp-core)
