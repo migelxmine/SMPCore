@@ -1,15 +1,19 @@
-SMPCore Controlled Fork License
-Copyright © 2026 MigelxDev.
+# SMPCore Controlled Fork License
+
+### Copyright © 2026 MigelxDev.
+
 All Rights Reserved.
 Author: MigelxDev
 Official Links:
 Modrinth: https://modrinth.com/user/MigelxDev
 GitHub: https://github.com/migelxmine
 Email: migelxdev@gmail.com
+
 1. Grant of Permission
 Subject to full compliance with the terms and conditions set forth in this License Agreement, permission is hereby granted to any individual or legal entity to use the software known as SMPCore (hereinafter referred to as “the Software”) on Minecraft servers.
 Such usage includes, but is not limited to, private servers, public servers, community projects, hosted services, and commercial or monetized server environments. This permission is granted free of charge and does not require payment of licensing fees.
 This License grants usage rights only. No ownership, intellectual property rights, or additional permissions are transferred unless explicitly stated in writing by the author.
+
 2. Restrictions on Modification, Distribution, and Derivative Works
 Unless prior written authorization has been explicitly granted by the author (MigelxDev), the following actions are strictly prohibited:
 Modifying, altering, reverse engineering, or adapting the source code or compiled versions of the Software.
@@ -17,6 +21,7 @@ Redistributing the Software in any form, whether modified or unmodified.
 Creating forks, derivative works, or alternative versions based on the Software.
 Publishing modified builds or unofficial distributions of the Software.
 Any violation of this section shall be considered a breach of license terms and may result in immediate termination of all granted permissions.
+
 3. Conditions for Authorized Forks
 In the event that written permission for a fork or derivative work is granted by the author, the following mandatory conditions shall apply:
 a. Mandatory Attribution
@@ -25,6 +30,7 @@ b. Pre-Release Notification Requirement
 The author must be notified prior to any public release, publication, or distribution of the authorized fork, regardless of platform, hosting method, or distribution format.
 c. Transparency Requirement
 The fork must not be presented in any manner that could reasonably mislead users into believing it is the original Software or an officially endorsed release unless explicit authorization has been provided.
+
 4. Prohibition of False Ownership Claims
 Under no circumstances may any individual or entity claim authorship, ownership, or original creation of the Software or any of its components. This includes, but is not limited to:
 Source code
@@ -32,9 +38,11 @@ Design structure
 Systems, mechanics, or features
 Documentation or associated assets
 Any attempt to misrepresent authorship shall constitute a violation of this License.
+
 5. Prohibition of Unauthorized Re-Uploads
 The Software may not be re-uploaded, mirrored, redistributed, or otherwise republished on any website, repository, marketplace, file host, plugin platform, or distribution service without prior written authorization from the author.
 This restriction applies to both modified and unmodified versions of the Software.
+
 6. Disclaimer of Warranty and Liability
 The Software is provided “as is”, without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, compatibility, reliability, or non-infringement.
 The author shall not be held liable for any damages arising from the use or inability to use the Software, including but not limited to:
@@ -45,6 +53,7 @@ Security issues
 Software conflicts
 Indirect or consequential damages
 Users assume full responsibility and risk associated with the installation and operation of the Software.
+
 7. Reservation of Rights
 All rights not expressly granted under this License remain fully reserved by the author, MigelxDev.
 The author retains the right to modify, update, revoke, or replace this License at any time without prior notice. Continued use of the Software after changes to the License constitutes acceptance of the updated terms.
