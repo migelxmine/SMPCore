@@ -1,59 +1,57 @@
-# SMPCore Controlled Fork License
+SMPCore Controlled Fork License
+Copyright © 2026 MigelxDev.
+All rights reserved.
 
-### Copyright © 2026 MigelxDev.
+This License Agreement (“Agreement”) governs the use of the software known as SMPCore (“Software”), developed and owned by MigelxDev (“Author”).
 
-All Rights Reserved.
-Author: MigelxDev
-Official Links:
-Modrinth: https://modrinth.com/user/MigelxDev
-GitHub: https://github.com/migelxmine
-Email: migelxdev@gmail.com
+By downloading, installing, accessing, or using the Software, you (“User”) acknowledge that you have read, understood, and agreed to be bound by the terms of this Agreement.
 
-1. Grant of Permission
-Subject to full compliance with the terms and conditions set forth in this License Agreement, permission is hereby granted to any individual or legal entity to use the software known as SMPCore (hereinafter referred to as “the Software”) on Minecraft servers.
-Such usage includes, but is not limited to, private servers, public servers, community projects, hosted services, and commercial or monetized server environments. This permission is granted free of charge and does not require payment of licensing fees.
-This License grants usage rights only. No ownership, intellectual property rights, or additional permissions are transferred unless explicitly stated in writing by the author.
+1. License Grant
+Subject to strict compliance with this Agreement, the Author hereby grants the User a limited, non-exclusive, non-transferable, revocable license to use the Software solely for the purpose of operating Minecraft servers.
+Permitted usage includes private, public, community-based, and commercial or monetized Minecraft servers. No licensing fees are required for such usage.
+This Agreement grants use-only rights. No ownership, intellectual property rights, or sublicensing rights are granted.
 
-2. Restrictions on Modification, Distribution, and Derivative Works
-Unless prior written authorization has been explicitly granted by the author (MigelxDev), the following actions are strictly prohibited:
-Modifying, altering, reverse engineering, or adapting the source code or compiled versions of the Software.
-Redistributing the Software in any form, whether modified or unmodified.
-Creating forks, derivative works, or alternative versions based on the Software.
-Publishing modified builds or unofficial distributions of the Software.
-Any violation of this section shall be considered a breach of license terms and may result in immediate termination of all granted permissions.
+2. Intellectual Property Rights
+The Software, including but not limited to its source code, binaries, structure, architecture, logic, features, documentation, and associated assets, is the exclusive intellectual property of the Author.
+All rights not expressly granted under this Agreement are expressly reserved.
 
-3. Conditions for Authorized Forks
-In the event that written permission for a fork or derivative work is granted by the author, the following mandatory conditions shall apply:
-a. Mandatory Attribution
-The derivative project must provide clear, visible, and unambiguous credit to the original author, MigelxDev. Attribution must include references to the official links listed in this License.
-b. Pre-Release Notification Requirement
-The author must be notified prior to any public release, publication, or distribution of the authorized fork, regardless of platform, hosting method, or distribution format.
-c. Transparency Requirement
-The fork must not be presented in any manner that could reasonably mislead users into believing it is the original Software or an officially endorsed release unless explicit authorization has been provided.
+3. Prohibited Actions
+Unless explicitly authorized in writing by the Author, the User shall not:
+Modify, adapt, translate, decompile, disassemble, or reverse engineer the Software.
+Redistribute, sublicense, lease, sell, or otherwise transfer the Software.
+Create forks, derivative works, or modified versions of the Software.
+Publish or distribute the Software under a different name or branding.
+Any unauthorized action constitutes a material breach of this Agreement.
 
-4. Prohibition of False Ownership Claims
-Under no circumstances may any individual or entity claim authorship, ownership, or original creation of the Software or any of its components. This includes, but is not limited to:
-Source code
-Design structure
-Systems, mechanics, or features
-Documentation or associated assets
-Any attempt to misrepresent authorship shall constitute a violation of this License.
+4. Authorized Forks
+If and only if explicit written permission is granted by the Author:
+a. The fork must include prominent and unambiguous attribution to MigelxDev, including official links.
+b. The Author must be notified prior to any public release or distribution.
+c. The fork must not imply endorsement, affiliation, or official support unless explicitly authorized.
 
-5. Prohibition of Unauthorized Re-Uploads
-The Software may not be re-uploaded, mirrored, redistributed, or otherwise republished on any website, repository, marketplace, file host, plugin platform, or distribution service without prior written authorization from the author.
-This restriction applies to both modified and unmodified versions of the Software.
+5. No Warranty
+The Software is provided “AS IS”, without warranty of any kind, whether express, implied, statutory, or otherwise.
 
-6. Disclaimer of Warranty and Liability
-The Software is provided “as is”, without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, compatibility, reliability, or non-infringement.
-The author shall not be held liable for any damages arising from the use or inability to use the Software, including but not limited to:
-Data loss
-Financial losses
-Server downtime
-Security issues
-Software conflicts
-Indirect or consequential damages
-Users assume full responsibility and risk associated with the installation and operation of the Software.
+6. Limitation of Liability
+To the maximum extent permitted by applicable law, the Author shall not be liable for any direct, indirect, incidental, special, consequential, or exemplary damages arising from the use or inability to use the Software.
 
-7. Reservation of Rights
-All rights not expressly granted under this License remain fully reserved by the author, MigelxDev.
-The author retains the right to modify, update, revoke, or replace this License at any time without prior notice. Continued use of the Software after changes to the License constitutes acceptance of the updated terms.
+7. Termination
+This Agreement shall automatically terminate upon any violation of its terms. Upon termination, all rights granted herein shall immediately cease.
+
+8. Governing Rights
+This Agreement constitutes the entire agreement between the parties concerning the Software.
+
+Overview:
+
+# Authorized Use:
+ You are permitted to use SMPCore on Minecraft servers, including:
+
+ - Private servers
+ - Public community servers
+ - Commercial and monetized environments
+ This permission is granted free of charge and is limited strictly to operational use.
+Ownership and Control
+
+SMPCore remains the sole property of MigelxDev.
+This license does not grant ownership, redistribution rights, or development rights.
+Development Restrictions
