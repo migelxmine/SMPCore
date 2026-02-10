@@ -1,15 +1,17 @@
 SMPCore Controlled Fork License
+
 Copyright © 2026 MigelxDev.
+
 All rights reserved.
 
-This License Agreement (“Agreement”) governs the use of the software known as SMPCore (“Software”), developed and owned by MigelxDev (“Author”).
+ This License Agreement (“Agreement”) governs the use of the software known as SMPCore (“Software”), developed and owned by MigelxDev (“Author”).
 
-By downloading, installing, accessing, or using the Software, you (“User”) acknowledge that you have read, understood, and agreed to be bound by the terms of this Agreement.
+ By downloading, installing, accessing, or using the Software, you (“User”) acknowledge that you have read, understood, and agreed to be bound by the terms of this Agreement.
 
 1. License Grant
-Subject to strict compliance with this Agreement, the Author hereby grants the User a limited, non-exclusive, non-transferable, revocable license to use the Software solely for the purpose of operating Minecraft servers.
+ Subject to strict compliance with this Agreement, the Author hereby grants the User a limited, non-exclusive, non-transferable, and revocable license to use the Software solely for the purpose of operating Minecraft servers.
 Permitted usage includes private, public, community-based, and commercial or monetized Minecraft servers. No licensing fees are required for such usage.
-This Agreement grants use-only rights. No ownership, intellectual property rights, or sublicensing rights are granted.
+This Agreement grants use-only rights. No ownership, intellectual property rights, sublicensing rights, or distribution rights are granted.
 
 2. Intellectual Property Rights
 The Software, including but not limited to its source code, binaries, structure, architecture, logic, features, documentation, and associated assets, is the exclusive intellectual property of the Author.
@@ -17,16 +19,19 @@ All rights not expressly granted under this Agreement are expressly reserved.
 
 3. Prohibited Actions
 Unless explicitly authorized in writing by the Author, the User shall not:
-Modify, adapt, translate, decompile, disassemble, or reverse engineer the Software.
-Redistribute, sublicense, lease, sell, or otherwise transfer the Software.
-Create forks, derivative works, or modified versions of the Software.
-Publish or distribute the Software under a different name or branding.
+
+ - Modify, adapt, translate, decompile, disassemble, or reverse engineer the Software;
+ - Redistribute, sublicense, lease, sell, or otherwise transfer the Software;
+ - Create forks, derivative works, or modified versions of the Software;
+ - Publish or distribute the Software under a different name or branding.
+
 Any unauthorized action constitutes a material breach of this Agreement.
 
 4. Authorized Forks
 If and only if explicit written permission is granted by the Author:
-a. The fork must include prominent and unambiguous attribution to MigelxDev, including official links.
-b. The Author must be notified prior to any public release or distribution.
+
+a. The fork must include prominent and unambiguous attribution to MigelxDev, including official links;
+b. The Author must be notified prior to any public release or distribution;
 c. The fork must not imply endorsement, affiliation, or official support unless explicitly authorized.
 
 5. No Warranty
@@ -38,20 +43,5 @@ To the maximum extent permitted by applicable law, the Author shall not be liabl
 7. Termination
 This Agreement shall automatically terminate upon any violation of its terms. Upon termination, all rights granted herein shall immediately cease.
 
-8. Governing Rights
-This Agreement constitutes the entire agreement between the parties concerning the Software.
-
-Overview:
-
-# Authorized Use:
- You are permitted to use SMPCore on Minecraft servers, including:
-
- - Private servers
- - Public community servers
- - Commercial and monetized environments
- This permission is granted free of charge and is limited strictly to operational use.
-Ownership and Control
-
-SMPCore remains the sole property of MigelxDev.
-This license does not grant ownership, redistribution rights, or development rights.
-Development Restrictions
+8. Entire Agreement
+This Agreement constitutes the entire agreement between the parties concerning the Software and supersedes any prior agreements or understandings.
