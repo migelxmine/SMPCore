@@ -1,0 +1,120 @@
+name: SMPCore
+version: 1.10.0
+main: com.smpcore.SMPCore
+api-version: 1.19
+authors: [MigelxDev]
+commands:
+  menu:
+    description: Opens the main menu
+  eco:
+    description: Admin economy management
+  pay:
+    description: Pay another player
+  buy:
+    description: Buy items
+  kill:
+    description: Place a bounty on a player
+    usage: /kill <player> <amount>
+  mshop:
+    description: Open the Market Shop
+  sm:
+    description: Super Money management
+  setup:
+    description: Starts the setup wizard
+    permission: smpcore.admin
+  ah:
+    description: Auction House
+  staff:
+    description: Especial menu for staff cargos!
+    # permission: smpcore.admin
+  jeweler:
+    description: Opens the Jeweler Menu to appraise ores
+    usage: /jeweler
+    permission: smpcore.use
+  ranks:
+    description: Opens the Ranks and Subscriptions menu
+    aliases: [ rank, sub, subs ]
+  spawn:
+    description: Teleport to spawn
+  setspawn:
+    description: Sets the world spawn point
+    permission: smpcore.admin
+  vault:
+    description: Open your private vault
+  insurance:
+    description: Open insurance menu
+  setpvp:
+    description: Setup PvP arena
+  order:
+    description: Create an order
+  orders:
+    description: View orders (Alias)
+  smpstatus:
+    description: Ver o status total do servidor
+    usage: /smpstatus
+    aliases: [ serverstatus, status ]
+    permission: smpcore.admin
+  menuban:
+    description: Banir jogador dos menus
+    usage: /menuban <player>
+    permission: smpcore.admin
+  menuunban:
+    description: Desbanir jogador dos menus
+    usage: /menuunban <player>
+    permission: smpcore.admin
+  economy:
+    description: Comandos de admin para economia e segurança
+    permission: smpcore.admin
+    usage: /economy <args>
+  offend:
+    description: Sistema de punição e troll
+    permission: smpcore.offend
+    usage: /offend <args>
+  setp:
+    description: Controls the spawn
+    permission: smpcore.admin
+  warp:
+    description: Teleporta para locais do servidor
+    usage: /warp <local>
+    aliases: [ warps ]
+  settings:
+    description: Open personal settings
+    usage: /settings
+    aliases: [ options, config ]
+  tpa:
+    description: Request to teleport to a player
+    usage: /tpa <player>
+  tpahere:
+    description: Request a player to teleport to you
+    usage: /tpahere <player>
+  tpaccept:
+    description: Accept a pending teleport request
+    usage: /tpaccept
+    aliases: [ yes, accept ]
+  tpdeny:
+    description: Deny a pending teleport request
+    usage: /tpdeny
+    aliases: [ no, deny ]
+  sell:
+    description: Open the shop menu
+    aliases: [ shop ]
+  casino:
+    description: Open the casino menu
+  crypto:
+    description: Open the crypto menu
+  pvphub:
+    description: Teleport to PvP Arena
+  rtp:
+    description: Open Random Teleport Menu
+    aliases: [ wild ]
+  homes:
+    description: Manage your homes
+  keys:
+    description: Manage Crate Keys
+    usage: /keys
+    aliases: [ crate, crates ]
+
+permissions:
+  smpcore.admin:
+    description: Admin permissions
+    default: op

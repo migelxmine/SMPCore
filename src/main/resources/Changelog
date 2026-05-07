@@ -1,0 +1,26 @@
+📜 SMPCore v1.9-ALPHA (The Foundation Update)
+In this update, we focused on purging old code, heavily optimizing server performance (TPS), and laying the groundwork for the upcoming Minigames ecosystem and Staff moderation tools. Fewer chat commands, more interactive menus!
+
+# 🧹 Optimization & Refactor (The Great Purge)
+Dead Code Removal: Heavy and outdated password/log encryption systems (SecurityManager and LogManager) were completely wiped out to ensure maximum server performance.
+
+Database Optimization: The SuperMoneyManager was entirely rewritten. It now uses RAM Caching and asynchronous saving, completely preventing lag spikes when multiple players earn VIP money simultaneously.
+
+Crash Fix: Fixed a fatal Netty Decoder Exception that crashed clients upon joining the server due to NPC holograms exceeding the 16-character hard limit (e.g., "BLOCK SHUFFLE").
+
+
+# 👮‍♂️ Staff & Moderation
+New Staff Panel (/staff): Say goodbye to memorizing dozens of commands. Moderation is now 100% visual!
+
+Main Dashboard: Quick monitoring of server TPS, online players, global economy, and active vaults.
+
+Player Manager: Interactive list of all online players featuring their actual head skins.
+
+Punish GUI: Click on a player to arrest them (teleports them to a bedrock cage in the sky), release them, apply a Fake Ban, or permanently freeze their bank account and SMP menu access.
+
+# Arcade & Minigames (Phase 1)
+New World (Lobby): The SMP_Lobby map is now automatically extracted from the ZIP file, installed, and loaded into RAM upon server startup via MapInstaller & SpawnGenManager.
+
+The /warp lobby Command: Fully functional, seamlessly transporting players straight into the Minigame Hub.
+
+Queue Engine: The Arcade NPCs ("Ice Control", "Block Shuffle", etc.) are now successfully linked to the MinigameManager. Clicking them will securely store your inventory in the vault, clear your stats, and place you in the matchmaking queue!

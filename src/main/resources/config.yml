@@ -1,0 +1,50 @@
+# Configuração Padrão do SMPCore (Versão 1.19)
+setup-complete: false
+maintenance-mode: false
+
+# Preços base dos encantamentos (Nomes 1.19/Legacy)
+enchantment-prices:
+  PROTECTION_ENVIRONMENTAL: 1000.0
+  PROTECTION_FIRE: 800.0
+  PROTECTION_EXPLOSIONS: 800.0
+  PROTECTION_PROJECTILE: 800.0
+  PROTECTION_FALL: 800.0
+  OXYGEN: 1200.0
+  WATER_WORKER: 1200.0
+  THORNS: 1500.0
+  DEPTH_STRIDER: 1200.0
+  FROST_WALKER: 1500.0
+  BINDING_CURSE: 100.0
+  DAMAGE_ALL: 1000.0     # Sharpness
+  DAMAGE_UNDEAD: 800.0   # Smite
+  DAMAGE_ARTHROPODS: 800.0 # Bane
+  KNOCKBACK: 500.0
+  FIRE_ASPECT: 1500.0
+  LOOT_BONUS_MOBS: 2000.0 # Looting
+  SWEEPING_EDGE: 1000.0
+  DIG_SPEED: 1000.0      # Efficiency
+  SILK_TOUCH: 3000.0
+  DURABILITY: 1000.0     # Unbreaking
+  LOOT_BONUS_BLOCKS: 2500.0 # Fortune
+  ARROW_DAMAGE: 1000.0   # Power
+  ARROW_KNOCKBACK: 500.0 # Punch
+  ARROW_FIRE: 1500.0     # Flame
+  ARROW_INFINITE: 3000.0 # Infinity
+  LUCK: 1500.0
+  LURE: 1000.0
+  LOYALTY: 1500.0
+  IMPALING: 1000.0
+  RIPTIDE: 1500.0
+  CHANNELING: 1500.0
+  MULTISHOT: 1000.0
+  QUICK_CHARGE: 1000.0
+  PIERCING: 1000.0
+  MENDING: 5000.0
+  VANISHING_CURSE: 100.0
+  SOUL_SPEED: 1500.0
+  SWIFT_SNEAK: 2000.0
+
+# As secções abaixo serão preenchidas automaticamente
+item-prices: {}
+balances: {}
+super-balances: {}

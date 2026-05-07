@@ -1,0 +1,121 @@
+# SMPCore Customizable Messages File
+setup-complete: false
+
+plugin-name: "&b&lSMPCore"
+
+# Configuração do Mercado de Cripto
+crypto:
+  setup-intro-title: "&6&lCrypto Market Configuration"
+  setup-intro-lines:
+    - "&eThis is a volatile, high-risk, high-reward investment system."
+    - "&eYou will now name the 3 currencies for your server."
+  coins:
+    coin1: "CoreCoin"
+    coin2: "MigelCoin"
+    coin3: "ServerCoin"
+
+# Títulos dos Menus
+menus:
+  main:
+    title: "%plugin_name% &2Menu"
+    buttons:
+      bank: "&6&lBANK"
+      teleports: "&5&lTELEPORTS"
+      bounties: "&c&lBOUNTIES"
+      settings: "&7&lSETTINGS"
+
+  bank:
+    title: "&3&lBANK"
+    buttons:
+      sell: "&a&lSELL"
+      investments: "&6&lCRYPTO MARKET"
+      loans: "&b&lLOANS"
+
+  shop:
+    title: "&a&l%plugin_name% - Shop"
+    buttons:
+      overworld: "&aOVERWORLD SHOP"
+      nether: "&cNETHER SHOP"
+      end: "&5END SHOP"
+      gear: "&7GEAR SHOP"
+      redstone: "&4REDSTONE SHOP"
+      utils: "&eUTILS SHOP"
+      food: "&6FOOD SHOP"
+
+  sub_shops:
+    overworld: "&aOverworld Shop"
+    nether: "&cNether Shop"
+    end: "&5End Shop"
+    gear: "&7Gear Shop"
+    redstone: "&4Redstone Shop"
+    utils: "&eUtils Shop"
+    food: "&6Food Shop"
+
+  sell:
+    title: "Sell Items"
+    buttons:
+      cancel: "&c&lCANCEL"
+      how-to: "&e&lHOW TO SELL"
+      info:
+        - "&7Drag the items you want to sell"
+        - "&7into the empty slots above."
+      sell-all: "&a&lSELL ALL"
+      info-sell:
+        - "&7Click to sell all items placed above."
+
+  teleports:
+    title: "&5Teleport Menu"
+    buttons:
+      homes: "&c&lHOMES"
+      random_tp: "&a&lRANDOM TP"
+      tpr_on: "&a&lTP REQUESTS: ON"
+      tpr_off: "&c&lTP REQUESTS: OFF"
+
+  settings:
+    title: "&7Settings"
+    buttons:
+      anti_hostile_on: "§aAnti-Hostiles: ON"
+      anti_hostile_off: "§cAnti-Hostiles: OFF"
+      pay_on: "§aPAY REQUESTS: ON"
+      pay_off: "§cPAY REQUESTS: OFF"
+
+  bounties:
+    title: "&4Bounties - Page %page%/%totalPages%"
+    buttons:
+      back: "&cBack"
+      previous_page: "&aPrevious Page"
+      next_page: "&aNext Page"
+    player-lore:
+      - "&6Bounty: &a$%bounty%"
+      - " "
+      - "&7Find and kill this player"
+      - "&7to claim the reward!"
+
+# Mensagens de Sistema
+messages:
+  no-permission: "&cYou do not have permission to use this command."
+  player-only: "This command can only be used by players."
+  player-not-found: "&cPlayer '&e%player%&c' not found or is not online."
+  insufficient-funds: "&cInsufficient funds! You need &e$%amount%&c."
+  loan-overdue: "&cAction blocked! You have an overdue loan. Please repay it in the bank."
+  inventory-full: "&cUnable to buy! Error: CLEAN YOUR INVENTORY!"
+
+# Mensagens de Comandos
+commands:
+  pay:
+    usage: "&cUsage: /pay <player> <amount>"
+    cannot-pay-self: "&cYou cannot pay yourself."
+    invalid-amount: "&cThe amount must be a positive number."
+    success-sender: "&aYou paid &e$%amount% &ato &e%player%&a."
+    success-receiver: "&aYou received &e$%amount% &afrom &e%player%&a."
+  buy:
+    usage: "&cUsage: /buy <item_name>"
+    item-not-found: "&cItem '&e%item%&c' not found."
+    not-for-sale: "&cItem '&e%item%&c' is not for sale."
+  kill:
+    description: "Opens the suicide menu."
+  givetool:
+    description: "Gives custom tools."
+    permission: smpcore.admin
+  sm:
+    description: "Super Money commands and shop."
